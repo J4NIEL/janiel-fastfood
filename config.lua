@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Jobs = { "emlak", "emlak1", "emlak2" }
+Config.Jobs = { "burgershot", "catcafe", "louisianajob" }
 
 Config.Locations = {
     vector3(-1837.23, -1214.50, 13.14),
